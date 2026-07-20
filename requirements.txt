@@ -1,7 +1,7 @@
 flask[async]
 gunicorn[gthread]
 numpy
-pandas==2.2.2
+pandas==2.3.3
 Requests
 aiohttp
 multiprocess
